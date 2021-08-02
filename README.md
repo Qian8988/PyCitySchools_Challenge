@@ -17,7 +17,7 @@ This assignment consists of two technical analysis deliverables and a written re
 
 ### Results
 #### How is the district summary affected?
-The average score of math fell by 1%, and average score of reading fell from 81.9% to 80.9%. The passing rate of math, reading and overall drop 1%, from 75% to 74%, 86% to 85%, and 65% to 64%. While the total schools, total students, and total budget remain the same.
+The average score of math fell by 1, and average score of reading fell from 81.9 to 80.9. The passing rate of math, reading and overall drop 1%, from 75% to 74%, 86% to 85%, and 65% to 64%. While the total schools, total students, and total budget remain the same.
 
 #### How is the school summary affected?
 The student pass rate in math of Thomas High School dropped from 93.27% to 66.91%. And the pass rate in reading of this school drop from 97.31% to 69.66%. Also, the average math score and average reading score dropped from 83.42 to 59.85 and from 83.85 to 60.24.
