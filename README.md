@@ -39,7 +39,7 @@ For the school type of Charter, the average score in math and reading dropped, a
 
 
 ### Summary
-After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the average score in math and reading and passing rate dropped slightly at district summary, while in school summary and grade summary the average scores and passing rate dropped a lot. And the ranking of Thomas High School also dropped from top 5 to 8. All the categories which Thomas High School in are obviously affected by the change.
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the average score in math and reading and passing rate dropped slightly at district summary, while in school summary and grade summary the average scores and passing rate dropped a lot. And the ranking of Thomas High School also dropped. All the categories which Thomas High School is in are obviously affected by the change.
 
 
 
