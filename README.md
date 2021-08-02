@@ -29,10 +29,10 @@ Thomas High School is the only school affected by replacing the ninth grader’s
 Math and reading score by grade are affected by replacing the ninth-grade scores. The average math and reading scores dropped as well as the passing rate.
 
 #### Scores by school spending
-Affected by replacing the ninth-grade scores of Thomas High School, the category which Thomas High school in changed. The average score in math and reading dropped, and the passing rate in math and reading also dropped.
+Affected by replacing the ninth-grade scores of Thomas High School, the category which Thomas High school is in show some changes. The average score in math and reading dropped, and the passing rate in math and reading also dropped.
 
 #### Scores by school size
-Affected by replacing the ninth-grade scores of Thomas High School, the category which Thomas High school in changed. The average score in math and reading dropped, and the passing rate in math and reading also dropped.
+Affected by replacing the ninth-grade scores of Thomas High School, the category which Thomas High school is in show some changes. The average score in math and reading dropped, and the passing rate in math and reading also dropped.
 
 #### Scores by school type
 The average score in math and reading dropped, and the passing rate in math and reading also dropped. The rest data are not affected.
